@@ -83,3 +83,7 @@ This project is intended as a portfolio example.  Feel free to open issues or pu
 ## License
 
 This project is released under the [MIT License](LICENSE).  You are free to reuse and adapt the code and data with attribution.
+
+## Notes
+
+This branch adds a notes section to the README to illustrate how to work with feature branches and pull requests. You can remove or expand this section as needed.
