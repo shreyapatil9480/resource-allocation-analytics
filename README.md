@@ -22,3 +22,10 @@ pip install -r requirements.txt
 jupyter notebook notebooks/exploratory_analysis.ipynb
 ```
 
+
+## Next Steps
+
+Tune class weights and add SHAP explainability.
+
+---
+*Analytics portfolio project — 2025-09*
